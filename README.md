@@ -1,5 +1,5 @@
 # Odysseus
-Odysseus Software and Hardware – A low-cost fall detection activity classifying camera system that consists of software and apparatus 
+Odysseus Software and Hardware – A low-cost fall detection activity classifying camera system that consists of application and apparatus 
 # Goal: 
 To design a low-cost and home-safe camera that connects the camera from the structure apparatus, Odysseus, to a computer and then we utilize a particle microcontroller to enable cloud-based servo motor commands and compute trajectories for the head of Odysseus to track someone in its sight to enable falling detection of anyone in the room. <br/>
 # Overview: 
